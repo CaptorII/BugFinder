@@ -1,0 +1,1 @@
+{"error":true,"status":"ASSET_EMPTY","message":"Asset is empty"}
